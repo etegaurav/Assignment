@@ -1,2 +1,2 @@
 # Assignment
-iNeuron assignment repository
+iNeuron assignments repository
